@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=numerator\ denominator
+comment0.target=Fraction(int,\ int)
+comment1.params=
+comment1.target=int\ getNumerator()
+comment2.params=
+comment2.target=int\ getDenominator()
+comment3.params=numerator
+comment3.target=int\ setNumerator(int)
+comment4.params=denominator
+comment4.target=int\ setDenominator(int)
+comment5.params=a\ b
+comment5.target=void\ toDouble(int,\ int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=a\ b
+comment7.target=int\ gcd(int,\ int)
+comment8.params=
+comment8.target=void\ printMenu()
+comment9.params=
+comment9.target=void\ returnLowest()
+numComments=10
