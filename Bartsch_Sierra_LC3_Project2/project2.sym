@@ -1,0 +1,23 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ASCIIOFF                3045
+//	BEGIN                   3000
+//	CORRECTGUESS            3114
+//	Correct                 3032
+//	DATA_VALIDATION         3011
+//	DONE                    3044
+//	END                     303D
+//	HIGHGUESS               30E6
+//	HIGHORLOW               301C
+//	LOWGUESS                30CF
+//	NOTAVALIDTHING          3076
+//	NOTVALID                3018
+//	NUMBEROFGUESSES         30FE
+//	OUTOFGUESSES            309C
+//	PromptA                 3046
+//	PromptB                 305E
+//	START                   300B
+//	STARTOVERQ              313B
+//	TOOMANYGUESSES          302C
+//	TooHigh                 3020
+//	TooLow                  3026
